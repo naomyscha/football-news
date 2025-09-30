@@ -35,7 +35,7 @@ ALLOWED_HOSTS = ["localhost", "127.0.0.1", "naomyscha-attalie-footballnews.pbp.c
 CSRF_TRUSTED_ORIGINS = ["https://naomyscha-attalie-footballnews.pbp.cs.ui.ac.id",]
 
 
-# Application definition
+# Application definition .
 
 INSTALLED_APPS = [
     'django.contrib.admin',
