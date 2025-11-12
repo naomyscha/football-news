@@ -1,8 +1,7 @@
-django
-gunicorn
-whitenoise
-psycopg2-binary
-requests
-urllib3
+asgiref==3.10.0
+Django==5.2.8
+django-cors-headers==4.9.0
+sqlparse==0.5.3
 python-dotenv
-selenium
+whitenoise
+requests
